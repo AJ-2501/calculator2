@@ -71,7 +71,7 @@ function App() {
     }
 
     // Clear
-    if (value === "CLR") {
+    if (value === "C") {
       setDisp("0");
       setOperand1(null);
       setOperand2(null);
